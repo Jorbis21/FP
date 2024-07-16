@@ -1,0 +1,3 @@
+﻿  Pito.cpp
+D:\Pogramas\Pito\Pito\Pito.cpp(19,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Pito.vcxproj -> D:\Pogramas\Pito\Debug\Pito.exe

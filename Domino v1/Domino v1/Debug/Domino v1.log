@@ -1,0 +1,4 @@
+﻿  Domino v1.cpp
+D:\Pogramas\Domino v1\Domino v1\Domino v1.cpp(35,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\Pogramas\Domino v1\Domino v1\Domino v1.cpp(211,11): warning C4101: 'i': variable local sin referencia
+  Domino v1.vcxproj -> D:\Pogramas\Domino v1\Debug\Domino v1.exe

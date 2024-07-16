@@ -1,0 +1,4 @@
+﻿  Practica 1.cpp
+D:\Pogramas\Practica 1\Practica 1\Practica 1.cpp(306,81): warning C4101: 'mesr3': variable local sin referencia
+D:\Pogramas\Practica 1\Practica 1\Practica 1.cpp(306,88): warning C4101: 'anior3': variable local sin referencia
+  Practica 1.vcxproj -> D:\Pogramas\Practica 1\Debug\Practica 1.exe

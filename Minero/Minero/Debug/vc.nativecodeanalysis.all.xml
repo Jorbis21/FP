@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>D:\Pogramas\Minero\Minero\</FILEPATH>
+      <FILENAME>juego.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>El tipo de enumeración "tTecla" no tiene ámbito. Prefiera "enum class" a "enum" (Enum.3).</DESCRIPTION>
+    <FUNCTION>&gt;&gt;</FUNCTION>
+    <DECORATED>??5@YAAAV?$basic_istream@DU?$char_traits@D@std@@@std@@AAV01@AAW4tTecla@@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>D:\Pogramas\Minero\Minero\</FILEPATH>
+      <FILENAME>mina.cpp</FILENAME>
+      <LINE>33</LINE>
+      <COLUMN>3</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>El tipo de enumeración "tElemento" no tiene ámbito. Prefiera "enum class" a "enum" (Enum.3).</DESCRIPTION>
+    <FUNCTION>char2elem</FUNCTION>
+    <DECORATED>?char2elem@@YA?AW4tElemento@@D@Z</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>D:\Pogramas\Minero\Minero\</FILEPATH>
+      <FILENAME>Minero.cpp</FILENAME>
+      <LINE>13</LINE>
+      <COLUMN>5</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>La función usa '40048' bytes de la pila:  supera /analyze:stacksize '16384'. Considere mover algunos datos al montón.</DESCRIPTION>
+    <FUNCTION>resuelveCaso</FUNCTION>
+    <DECORATED>?resuelveCaso@@YAXXZ</DECORATED>
+    <FUNCLINE>13</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>D:\Pogramas\Minero\Minero\</FILEPATH>
+      <FILENAME>mina.h</FILENAME>
+      <LINE>16</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>La variable "tMina::mina" no está inicializada. Siempre debe inicializarse una variable miembro (type.6).</DESCRIPTION>
+    <FUNCTION>tMina::{ctor}</FUNCTION>
+    <DECORATED>??0tMina@@QAE@XZ</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>tMina::mina</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>D:\Pogramas\Minero\Minero\</FILEPATH>
+      <FILENAME>juego.h</FILENAME>
+      <LINE>16</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>El tipo de enumeración "tEstado" no tiene ámbito. Prefiera "enum class" a "enum" (Enum.3).</DESCRIPTION>
+    <FUNCTION>tJuego::{ctor}</FUNCTION>
+    <DECORATED>??0tJuego@@QAE@XZ</DECORATED>
+    <FUNCLINE>19</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

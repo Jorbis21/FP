@@ -1,0 +1,6 @@
+﻿  SopadeLetras.cpp
+D:\Pogramas\SopadeLetras\SopadeLetras\SopadeLetras.cpp(76,20): warning C4018: '<': no coinciden signed/unsigned
+D:\Pogramas\SopadeLetras\SopadeLetras\SopadeLetras.cpp(95,16): warning C4018: '<': no coinciden signed/unsigned
+D:\Pogramas\SopadeLetras\SopadeLetras\SopadeLetras.cpp(101,25): warning C4018: '<': no coinciden signed/unsigned
+D:\Pogramas\SopadeLetras\SopadeLetras\SopadeLetras.cpp(111,26): warning C4018: '<': no coinciden signed/unsigned
+  SopadeLetras.vcxproj -> D:\Pogramas\SopadeLetras\Debug\SopadeLetras.exe

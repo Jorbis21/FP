@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Pogramas\Minero\Minero\</FILEPATH>
+      <FILENAME>juego.cpp</FILENAME>
+      <LINE>7</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>El tipo de enumeración "tTecla" no tiene ámbito. Prefiera "enum class" a "enum" (Enum.3).</DESCRIPTION>
+    <FUNCTION>&gt;&gt;</FUNCTION>
+    <DECORATED>??5@YAAAV?$basic_istream@DU?$char_traits@D@std@@@std@@AAV01@AAW4tTecla@@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

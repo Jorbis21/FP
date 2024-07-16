@@ -1,0 +1,4 @@
+﻿  Min-lecturamapa.cpp
+D:\Pogramas\Min-lecturamapa\Min-lecturamapa\Min-lecturamapa.cpp(145,7): warning C4101: 'c': variable local sin referencia
+D:\Pogramas\Min-lecturamapa\Min-lecturamapa\Min-lecturamapa.cpp(53): warning C4715: 'char2elem': no todas las rutas de acceso de control devuelven un valor
+  Min-lecturamapa.vcxproj -> D:\Pogramas\Min-lecturamapa\Debug\Min-lecturamapa.exe

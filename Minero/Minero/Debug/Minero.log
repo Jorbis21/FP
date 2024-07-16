@@ -1,0 +1,19 @@
+﻿  juego.cpp
+D:\Pogramas\Minero\Minero\mina.h(19,16): error C5208: la clase sin nombre que se usa en el nombre typedef no puede declarar miembros que no sean miembros de datos no estáticos, enumeraciones de miembros o clases de miembros
+D:\Pogramas\Minero\Minero\mina.h(23,16): error C5208: la clase sin nombre que se usa en el nombre typedef no puede declarar miembros que no sean miembros de datos no estáticos, enumeraciones de miembros o clases de miembros
+D:\Pogramas\Minero\Minero\juego.h(22,15): error C5208: la clase sin nombre que se usa en el nombre typedef no puede declarar miembros que no sean miembros de datos no estáticos, enumeraciones de miembros o clases de miembros
+  mina.cpp
+D:\Pogramas\Minero\Minero\mina.h(19,16): error C5208: la clase sin nombre que se usa en el nombre typedef no puede declarar miembros que no sean miembros de datos no estáticos, enumeraciones de miembros o clases de miembros
+D:\Pogramas\Minero\Minero\mina.h(23,16): error C5208: la clase sin nombre que se usa en el nombre typedef no puede declarar miembros que no sean miembros de datos no estáticos, enumeraciones de miembros o clases de miembros
+  Minero.cpp
+D:\Pogramas\Minero\Minero\mina.h(19,16): error C5208: la clase sin nombre que se usa en el nombre typedef no puede declarar miembros que no sean miembros de datos no estáticos, enumeraciones de miembros o clases de miembros
+D:\Pogramas\Minero\Minero\mina.h(23,16): error C5208: la clase sin nombre que se usa en el nombre typedef no puede declarar miembros que no sean miembros de datos no estáticos, enumeraciones de miembros o clases de miembros
+D:\Pogramas\Minero\Minero\juego.h(22,15): error C5208: la clase sin nombre que se usa en el nombre typedef no puede declarar miembros que no sean miembros de datos no estáticos, enumeraciones de miembros o clases de miembros
+D:\Pogramas\Minero\Minero\puntuaciones.h(13,16): error C5208: la clase sin nombre que se usa en el nombre typedef no puede declarar miembros que no sean miembros de datos no estáticos, enumeraciones de miembros o clases de miembros
+D:\Pogramas\Minero\Minero\puntuaciones.h(21,16): error C5208: la clase sin nombre que se usa en el nombre typedef no puede declarar miembros que no sean miembros de datos no estáticos, enumeraciones de miembros o clases de miembros
+D:\Pogramas\Minero\Minero\puntuaciones.h(28,16): error C5208: la clase sin nombre que se usa en el nombre typedef no puede declarar miembros que no sean miembros de datos no estáticos, enumeraciones de miembros o clases de miembros
+  puntuaciones.cpp
+D:\Pogramas\Minero\Minero\puntuaciones.h(13,16): error C5208: la clase sin nombre que se usa en el nombre typedef no puede declarar miembros que no sean miembros de datos no estáticos, enumeraciones de miembros o clases de miembros
+D:\Pogramas\Minero\Minero\puntuaciones.h(21,16): error C5208: la clase sin nombre que se usa en el nombre typedef no puede declarar miembros que no sean miembros de datos no estáticos, enumeraciones de miembros o clases de miembros
+D:\Pogramas\Minero\Minero\puntuaciones.h(28,16): error C5208: la clase sin nombre que se usa en el nombre typedef no puede declarar miembros que no sean miembros de datos no estáticos, enumeraciones de miembros o clases de miembros
+  Generando código...

@@ -1,0 +1,4 @@
+﻿  Examen 1 cuatri.cpp
+D:\Pogramas\Examen 1 cuatri\Examen 1 cuatri.cpp(77): warning C4715: 'strToArea': no todas las rutas de acceso de control devuelven un valor
+D:\Pogramas\Examen 1 cuatri\Examen 1 cuatri.cpp(183): warning C4715: 'areaToStr': no todas las rutas de acceso de control devuelven un valor
+  Examen 1 cuatri.vcxproj -> D:\Pogramas\Examen 1 cuatri\Debug\Examen 1 cuatri.exe

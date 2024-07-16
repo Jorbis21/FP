@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+D:\Pogramas\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(6,2): error C2059: error de sintaxis: 'public'
+D:\Pogramas\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(6,48): error C2143: error de sintaxis: falta ';' delante de '{'
+D:\Pogramas\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(6,48): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
